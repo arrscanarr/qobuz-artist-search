@@ -16,3 +16,7 @@ All requests are done client-side.
 3. Enter an artist name or ID
 4. Set the filters that you want
 5. Click search
+
+## Screenshots
+<img width="1857" height="1810" alt="Screenshot_20260131_134546" src="https://github.com/user-attachments/assets/b4e57db1-10a5-4a5e-a22b-82caa20d7067" />
+
