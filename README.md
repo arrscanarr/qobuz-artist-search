@@ -5,7 +5,7 @@
 > [!WARNING]
 > **Disclaimer:** This is an unofficial, third-party tool and is not affiliated with, endorsed by, or associated with Qobuz in any way. By using this tool, you agree to comply with Qobuz's Terms of Service and API usage policies. The creators of this tool are not responsible for any violations of Qobuz's terms or any consequences resulting from the use of this tool. Use at your own risk.
 
-A very simple AI generated webinterface for generating qobuz links in any format you like.
+A very simple webinterface for generating qobuz links in any format you like.
 
 I recommend to use a burner account for this because Qobuz may not like many API requests.
 All requests are done client-side.
