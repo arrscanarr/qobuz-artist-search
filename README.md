@@ -18,5 +18,11 @@ All requests are done client-side.
 5. Click search
 
 ## Screenshots
-<img width="1857" height="1810" alt="Screenshot_20260131_134546" src="https://github.com/user-attachments/assets/b4e57db1-10a5-4a5e-a22b-82caa20d7067" />
+### With tracks
+<img width="1852" height="1793" alt="grafik" src="https://github.com/user-attachments/assets/a8649f4a-ed9f-4efe-82da-054af1c196d9" />
 
+### Without tracks
+<img width="1846" height="1289" alt="grafik" src="https://github.com/user-attachments/assets/3f4b1231-c249-451b-803e-d8d98d6f44fe" />
+
+### Without tracks - raw
+<img width="1863" height="1286" alt="grafik" src="https://github.com/user-attachments/assets/cf24577a-ecef-4024-ad8e-a59492429dc5" />
